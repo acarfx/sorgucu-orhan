@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-logs": "^2.0.1",
+    "discord.js": "^13.0.1",
+    "discord.js-selfbot-v13": "^2.0.4",
+    "fs": "^0.0.1-security",
+    "lib": "^4.3.3",
+    "mongoose": "^6.3.5",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "util": "^0.12.4"
+  }
+}
