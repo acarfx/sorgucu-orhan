@@ -1,4 +1,6 @@
 # Sorgucu Orhan Abimiz.
+![image](https://user-images.githubusercontent.com/77089894/177016038-71ee4c65-21a3-4efb-95a6-154ac66fa82a.png)
+
 
 Düzenlenmesi gereken yer /Bots/self_tracking/acar.js
 içinde Client özelliklerinin içinden değişim yapabilirsiniz.
