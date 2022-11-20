@@ -9,7 +9,7 @@ let client = global.client = new ACAR({
 
 client.on('ready', () => {
   client.guilds.cache.map(async (x) => {
-    await x.members.fetch().then(guild => { })
+    await x.members.fetch({ message: ).then(guild => { }})
   })
 })
 
